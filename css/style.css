@@ -1,0 +1,53 @@
+/* .list li:last-child a {
+    color: red;
+}
+
+.list li:first-child a {
+    color: green;
+}
+
+.list li:nth-child(3) a {
+    color: blue;
+} */
+
+/* .list li:nth-child(odd) a {
+    color: lightseagreen;
+}
+
+.list li:nth-child(even) {
+    color: darkmagenta;
+} */
+
+/* .list li:hover {
+    color: red;
+} */
+
+/* .list li:not(.not-list-style) a {
+    color: mediumaquamarine;
+} */
+
+/* .list li::before {
+    content: "Before";
+}
+
+.list li::after {
+    content: "After";
+} */
+
+/* .list {
+    list-style: none;
+}
+
+.list li::before {
+    content: "";
+    display: inline-block;
+    background-color: red;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+} */
+
+
+
+
+
